@@ -1,0 +1,233 @@
+{
+    "name":"<FONT FACE = 'A9eelsh'>ﺔﻴﺑﺮﻌﻟﺍ",
+    "CalloutMenu":{
+		"title":"<FONT FACE = 'A9eelsh'>ﺕﺎﻏﻼﺒﻟﺍ",
+		"description":"<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+        "backup_menu":{
+            "title":"<FONT FACE = 'A9eelsh'>ﻢﻋﺪﻟﺍ",
+			"description":"<FONT FACE = 'A9eelsh'>ﻢﻋﺪﻟﺍ ﺐﻠﻃ",
+			"buttons":{
+				"code1":{
+					"title":"<FONT FACE = 'A9eelsh'>1 ﺩﻮﻛ",
+					"description":"<FONT FACE = 'A9eelsh'>1 ﺩﻮﻛ ﻢﻋﺩ ﺀﺎﻋﺪﺘﺳﺍ"
+				},
+				"code2":{
+					"title":"<FONT FACE = 'A9eelsh'>2 ﺩﻮﻛ",
+					"description":"<FONT FACE = 'A9eelsh'>2 ﺩﻮﻛ ﻢﻋﺩ ﺀﺎﻋﺪﺘﺳﺍ"
+				},
+				"code3":{
+					"title":"<FONT FACE = 'A9eelsh'>3 ﺩﻮﻛ",
+					"description":"<FONT FACE = 'A9eelsh'>3 ﺩﻮﻛ ﻢﻋﺩ ﺀﺎﻋﺪﺘﺳﺍ"
+				},
+				"code99":{
+					"title":"<FONT FACE = 'A9eelsh'>99 ﺩﻮﻛ",
+					"description":"<FONT FACE = 'A9eelsh'>99 ﺩﻮﻛ ﻢﻋﺩ ﺀﺎﻋﺪﺘﺳﺍ"
+				},
+				"cancel_backup":{
+					"title":"<FONT FACE = 'A9eelsh'>ﻢﻋﺪﻟﺍ ﺀﺎﻐﻟﺍ",
+					"description":"<FONT FACE = 'A9eelsh'>ﻢﻋﺪﻟﺍ ﺐﻠﻃ ﺀﺎﻐﻟﺍ"
+				}
+			}
+        },
+        "add_nearby":{
+            "title":"<FONT FACE = 'A9eelsh'>ﺐﻳﺮﻗ ﺐﻋﻻ ﺔﻓﺎﺿﺇ",
+            "description":"<FONT FACE = 'A9eelsh'> أضف أقرب لاعب إلى بلاغك من نفس القسم"
+        },
+        "disable_callouts":{
+            "title":"<FONT FACE = 'A9eelsh'>ﺕﺎﻏﻼﺒﻟﺍ",
+            "description":"<FONT FACE = 'A9eelsh'>ﺕﺎﻏﻼﺒﻟﺍ ﻲﻘﻠﺗ ﻑﺎﻘﻳﺍ"
+        },
+        "debug_menu":{
+            "title":"<FONT FACE = 'A9eelsh'>~y~ﻢﻜﺤﺘﻟﺍ ﺔﻤﺋﺎﻗ",
+            "description":"<FONT FACE = 'A9eelsh'>ﻢﻜﺤﺘﻟﺍ ﺔﻤﺋﺎﻗ",
+            "submenu":{
+                "force_callouts":{
+                    "title":"<FONT FACE = 'A9eelsh'>ﺕﺎﻏﻼﺒﻟﺍ ﺐﻠﻃ",
+                    "description":"<FONT FACE = 'A9eelsh'>ﻍﻼﺑ ﺐﻠﻄﻟ"
+                },
+                "toggle_callouts":{
+                    "title":"<FONT FACE = 'A9eelsh'>ﻍﻼﺑ ﻞﻴﻄﻌﺗ/ﻦﻴﻜﻤﺗ",
+                    "description":"<FONT FACE = 'A9eelsh'>ﻍﻼﺑ ﻞﻴﻄﻌﺗ/ﻦﻴﻜﻤﺗ"
+                }
+            }
+		},
+		"code4":{
+			"title":"<FONT FACE = 'A9eelsh'>g~4~ ﺩﻮﻛ [ﻍﻼﺑ]",
+            "description":"<FONT FACE = 'A9eelsh'>Complete the callout"
+		},
+		"cancel_assistance":{
+			"title":"<FONT FACE = 'A9eelsh'>~r~ﺓﺪﻋﺎﺴﻤﻟﺍ ﺀﺎﻐﻟﺇ",
+            "description":"<FONT FACE = 'A9eelsh'>ﻩﺪﻧﺎﺴﻤﻟﺍ ﺕﺎﺒﻠﻃ ﻝﺎﺒﻘﺘﺳﺍ ﻦﻋ ﻒﻗﻮﺘﻟﺍ"
+		}
+    },
+	"MainMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺔﻴﻋﺮﻓ ﺔﻤﺋﺎﻗ ﺮﺘﺧﺍ"
+	},
+    "DutyMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﺔﻣﺪﺨﻟﺍ ﺔﻤﺋﺎﻗ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+		"duty": "<FONT FACE = 'A9eelsh'>ﻝﻮﺧﺩ ﻞﻴﺠﺴﺗ",
+		"engine": "<FONT FACE = 'A9eelsh'>ﻼﻐﺘﺸﻣ ﻙﺮﺤﻤﻟﺍ ﻖﺑﺍ",
+		"cc": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺔﻋﺮﺴﻟﺍ ﺖﺒﺜﻣ ﻞﻴﻌﻔﺗ",
+			"description": "<FONT FACE = 'A9eelsh'>B ﻮﻫ ﺖﺒﺜﻤﻠﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺭﺰﻟﺍ"
+		},
+		"vehicleSpawn": "<FONT FACE = 'A9eelsh'>ﺔﺒﻛﺮﻣ ﺝﺍﺮﺧﺍ",
+		"loadout": "<FONT FACE = 'A9eelsh'>ﺩﺎﺘﻌﻟﺍ ﺝﺍﺮﺧﺍ",
+		"refill": "<FONT FACE = 'A9eelsh'>ﻉﻭﺭﺪﻟﺍﻭ ﺔﺤﺼﻟﺍ ﺀﻞﻣ ﺓﺩﺎﻋﺇ",
+		"tp": "<FONT FACE = 'A9eelsh'>ﻢﺴﻗ ﻰﻟﺍ ﻊﻳﺮﺴﻟﺍ ﻞﻘﻨﺘﻟﺍ",
+		"OptionsMenu": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﻤﺋﺎﻗ",
+			"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+			"lang": "<FONT FACE = 'A9eelsh'>ﺔﻐﻠﻟﺍ ﺮﻴﻴﻐﺗ",
+			"blips": "<FONT FACE = 'A9eelsh'>ﺲﺒﻠﺒﻟﺍ ﺭﺎﻬﻇﺍ,",
+			"patrolCarBlip": "<FONT FACE = 'A9eelsh'>ﺔﻳﺭﻭﺪﻟﺍ ﺭﺎﻬﻇﺍ",
+			"menupos": {
+				"title": "<FONT FACE = 'A9eelsh'>ﺔﻤﺋﺎﻘﻟﺍ ﻥﺎﻜﻣ ﺮﻴﻴﻐﺗ",
+				"description": "<FONT FACE = 'A9eelsh'>ﺭﺎﺴﻴﻟﺍ ﻰﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻞﻘﻧ"
+			},
+			"showNotifications": {
+				"title": "<FONT FACE = 'A9eelsh'>ﺕﺎﻬﻴﺒﻨﺘﻟﺍ ﻞﻴﻄﻌﺗ",
+				"description": "<FONT FACE = 'A9eelsh'>ﺔﻔﻴﻌﻀﻟﺍ ﻩﺰﻬﺟﻸﻟ ﻪﺑ ﺢﺼﻨﻳ"
+			},
+			"observation": "<FONT FACE = 'A9eelsh'>ﻦﻴﻨﻃﺍﻮﻤﻟﺍ ﺕﺎﻈﺣﻼﻣ ﻞﻴﻄﻌﺗ"
+		}
+	},
+	"SceneMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﺔﻤﻳﺮﺠﻟﺍ ﻊﻗﻮﻣ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺔﻴﻋﺮﻓ ﺔﻤﺋﺎﻗ ﺮﺘﺧﺍ",
+		"ObjectMenu": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺕﺎﺘﻜﺠﺑﻭﻻﺍ",
+			"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+			"spawn": "<FONT FACE = 'A9eelsh'>ﺖﻜﺠﺑﻭﺍ ﺀﺎﺸﻧﺍ",
+			"delete": "<FONT FACE = 'A9eelsh'>ﻚﺗﺎﺘﻜﺠﺑﻭﺍ ﺔﻓﺎﻛ ﻑﺬﺣ",
+			"deletePrevious": "<FONT FACE = 'A9eelsh'>ﻖﺑﺎﺴﻟﺍ ﻚﺘﻜﺠﺑﻭﺍ ﻑﺬﺣ"
+		},
+		"SpeedZoneMenu": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺔﻋﺮﺴﻟﺍ ﺔﻘﻄﻨﻣ",
+			"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+			"speed": "<FONT FACE = 'A9eelsh'>ﺔﻋﺮﺴﻟﺍ",
+			"radius": "<FONT FACE = 'A9eelsh'>ﺓﺮﺋﺍﺪﻟﺍ ﺔﺣﺎﺴﻣ",
+			"place": "<FONT FACE = 'A9eelsh'>ﺔﻋﺮﺴﻟﺍ ﺔﻘﻄﻨﻣ ﺀﺎﺸﻧﺍ",
+			"remove": "<FONT FACE = 'A9eelsh'>ﺔﻋﺮﺴﻟﺍ ﺔﻘﻄﻨﻣ ﺔﻟﺍﺯﺍ",
+			"go": "<FONT FACE = 'A9eelsh'>ﺐﻫﺬﺗ ﺕﺎﺒﻛﺮﻤﻟﺍ ﻉﺩ",
+			"removePlayer": "<FONT FACE = 'A9eelsh'>ﺐﻋﻻ ﺔﻘﻄﻨﻣ ﺔﻟﺍﺯﺍ"
+		}
+	},
+	"DispatchMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﺕﺎﻴﻠﻤﻌﻟﺍ ﺔﻤﺋﺎﻗ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+		"license": "<FONT FACE = 'A9eelsh'>ﺺﻴﺧﺮﺘﻟﺍ ﻦﻣ ﻖﻘﺤﺘﻟﺍ",
+		"plate": "<FONT FACE = 'A9eelsh'>ﺕﺎﺣﻮﻠﻟﺍ ﻦﻣ ﻖﻘﺤﺘﻟﺍ",
+		"transport": {
+			"request": "<FONT FACE = 'A9eelsh'>ﻥﻮﺠﺴﻟﺍ ﻞﻘﻧ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﻥﻮﺠﺴﻟﺍ ﻞﻘﻧ ﺀﺎﻐﻟﺍ"
+		},
+		"ems": {
+			"request": "<FONT FACE = 'A9eelsh'>ﻑﺎﻌﺳﺇ ﺓﺭﺎﻴﺳ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﻑﺎﻌﺳﺇ ﺓﺭﺎﻴﺳ ﺀﺎﻐﻟﺍ"
+		},
+		"fd": {
+			"request": "<FONT FACE = 'A9eelsh'>ﺀﺎﻔﻃﺇ ﺓﺪﺣﻭ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﺀﺎﻔﻃﻹﺍ ﺓﺪﺣﻭ ﺀﺎﻐﻟﺍ"
+		},
+		"coroner": {
+			"request": "<FONT FACE = 'A9eelsh'>ﻲﻋﺮﺸﻟﺍ ﺐﻄﻟﺍ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﻲﻋﺮﺸﻟﺍ ﺐﻄﻟﺍ ﺀﺎﻐﻟﺍ"
+		},
+		"towTruck": {
+			"request": "<FONT FACE = 'A9eelsh'>ﺐﺤﺳ ﺔﻨﺣﺎﺷ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﺐﺤﺴﻟﺍ ﺔﻨﺣﺎﺷ ﺀﺎﻐﻟﺍ"
+		},
+		"animalControl": {
+			"request": "<FONT FACE = 'A9eelsh'>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﺓﺪﺣﻭ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﺓﺪﺣﻭ ﺀﺎﻐﻟﺍ"
+		},
+		"mechanic": {
+			"request": "<FONT FACE = 'A9eelsh'>ﻲﻜﻴﻧﺎﻜﻴﻣ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﻲﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺀﺎﻐﻟﺍ"
+		},
+		"airAmbulance": {
+			"request": "<FONT FACE = 'A9eelsh'>ﻑﺎﻌﺳﺍ ﺔﻴﺣﻭﺮﻣ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﻑﺎﻌﺳﻻﺍ ﺔﻴﺣﻭﺮﻣ ﺀﺎﻐﻟﺍ"
+		},
+		"taxi": {
+			"request": "<FONT FACE = 'A9eelsh'>ﺓﺮﺟﺍ ﺓﺭﺎﻴﺳ ﺐﻠﻃ",
+			"cancel": "<FONT FACE = 'A9eelsh'>ﺓﺮﺟﻻﺍ ﺓﺭﺎﻴﺳ ﺀﺎﻐﻟﺍ"
+		}
+	},
+	"PedVehicleMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﺓﺭﺎﻴﺴﻟﺍ ﺪﻌﻘﻣ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+		"left": "<FONT FACE = 'A9eelsh'>ﺮﺴﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﻲﺳﺮﻜﻟﺍ",
+		"right": "<FONT FACE = 'A9eelsh'>ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﻲﺳﺮﻜﻟﺍ"
+	},
+	"TrafficStopMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﺔﻛﺮﺤﻟﺍ ﻑﺎﻘﻳﺍ ﺔﻤﺋﺎﻗ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+		"go": "<FONT FACE = 'A9eelsh'>ﺏﺎﻫﺬﻟﺍ ﻚﻨﻜﻤﻳ",
+		"breathalyzer": "<FONT FACE = 'A9eelsh'>ﻝﻮﺤﻜﻟﺍ ﻞﻴﻠﺤﺗ ﺯﺎﻬﺟ",
+		"drugswab": "<FONT FACE = 'A9eelsh'>ﺕﺍﺭﺪﺨﻤﻟﺍ ﺔﺤﺴﻣ ﺭﺎﺒﺘﺧﺍ",
+		"interactWith": "<FONT FACE = 'A9eelsh'>ﻊﻣ ﺙﺪﺤﺘﻟﺍ",
+		"orderOut": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺓﺭﺎﻴﺴﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺍ ﺐﻠﻃ",
+			"occupants": ["<FONT FACE = 'A9eelsh'>ﻞﻜﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻖﺋﺎﺴﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻲﻣﺎﻣﻻﺍ ﻦﻴﻤﻴﻟﺍ", "<FONT FACE = 'A9eelsh'>ﺮﺴﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ"]
+		}
+	},
+	"TrafficStopPositionMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﻱﺭﻭﺮﻤﻟﺍ ﻑﺎﻘﻴﺘﺳﻷﺍ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+		"follow": "<FONT FACE = 'A9eelsh'>ﻲﻨﻌﺒﺗﺍ",
+		"mimic": "<FONT FACE = 'A9eelsh'>ﻲﻧﺪﻠﻗ",
+		"marker": "<FONT FACE = 'A9eelsh'>ﺔﻣﻼﻌﻟﺍ ﻰﻟﺍ ﺐﻫﺫﺍ",
+		"cancel": "<FONT FACE = 'A9eelsh'>ﻑﺎﻘﻴﺘﺳﻻﺍ ﻑﺎﻘﻳﺍ"
+	},
+	"PedCheckMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﺹﺎﺨﺷﻷﺍ ﻒﻴﻗﻮﺗ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+		"license": "<FONT FACE = 'A9eelsh'>ﺺﻴﺧﺍﺮﺘﻟﺍ ﺐﻠﻃ",
+		"question": "<FONT FACE = 'A9eelsh'>ﻻﺃﻮﺳ ﻝﺄﺳﺍ",
+		"licenses": [
+			"Driving",
+			"Hunting",
+			"Fishing",
+			"Weapon"
+		],
+		"breathalyzer": "<FONT FACE = 'A9eelsh'>ﻝﻮﺤﻜﻟﺍ ﻞﻴﻠﺤﺗ ﺯﺎﻬﺟ",
+		"drugswab": "<FONT FACE = 'A9eelsh'>ﺕﺍﺭﺪﺨﻤﻟﺍ ﺔﺤﺴﻣ ﺭﺎﺒﺘﺧﺍ",
+		"move": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺺﺨﺸﻟﺍ ﻚﻳﺮﺤﺗ",
+			"types": ["<FONT FACE = 'A9eelsh'>ﻲﻨﻌﺒﺗﺃ", "<FONT FACE = 'A9eelsh'>ﻞﻤﺣ"]
+		},
+		"search": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺶﻴﺘﻔﺗ",
+			"types": ["<FONT FACE = 'A9eelsh'>ﺺﺨﺸﻟﺍ", "<FONT FACE = 'A9eelsh'>ﺔﺒﻛﺮﻤﻟﺍ"]
+		},
+		"cancelMove": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺔﻛﺮﺤﻟﺍ ﻑﺎﻘﻳﺍ",
+			"description": "<FONT FACE = 'A9eelsh'>.ﻞﻤﺤﻟﺍ ﻭﺃ ﺔﻌﺑﺎﺘﻤﻟﺍ ﻑﺎﻘﻳﺇ"
+		},
+		"cuff": "<FONT FACE = 'A9eelsh'>ﺔﺸﺒﻠﻛ",
+		"uncuff": "<FONT FACE = 'A9eelsh'>ﺔﺸﺒﻠﻜﻟﺍ ﻚﻓ",
+		"dismiss": "<FONT FACE = 'A9eelsh'>ﻑﺮﺼﻧﺍ"
+	},
+	"AdminMenu": {
+		"title": "<FONT FACE = 'A9eelsh'>ﺓﺭﺍﺩﻷﺍ ﺔﻤﺋﺎﻗ",
+		"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+		"garageMenu": {
+			"title": "<FONT FACE = 'A9eelsh'>ﺕﺎﺟﺍﺮﻘﻟﺍ",
+			"subtitle": "<FONT FACE = 'A9eelsh'>ﺭﺎﻴﺧ ﺮﺘﺧﺇ",
+			"respawnAll": "<FONT FACE = 'A9eelsh'>ﺕﺎﺟﺍﺮﻘﻟﺍ ﻞﻛ ﻥﻮﺒﺳﺭ",
+			"respawnOne": "<FONT FACE = 'A9eelsh'>ﺝﺍﺮﻗ ﻥﻮﺒﺳﺭ"
+		},
+		"devMenu": {
+			"title": "Development tools",
+			"subtitle": "Choose an option",
+			"save": "Save current position",
+			"heading": "Add heading to position",
+			"model": "Add ped model to position",
+			"change": "Change ped model",
+		}
+	}
+}

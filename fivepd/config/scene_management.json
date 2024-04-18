@@ -1,0 +1,40 @@
+{
+	"speedzone": {
+		"speed": [0,5,10,20,30,40,50,60],
+		"radius": [5,10,20,30,40,50,60,70,80,90,100]
+	},
+	"objects": [
+		{
+			"name": "<FONT FACE = 'A9eelsh'>ﺮﻴﻐﺻ ﻊﻤﻗ",
+			"model": "prop_roadcone02a"
+		},
+		{
+			"name": "<FONT FACE = 'A9eelsh'>ﺮﻴﺒﻛ ﻊﻤﻗ",
+			"model": "prop_roadcone01a"
+		},
+		{
+			"name": "<FONT FACE = 'A9eelsh'>ﺮﺒﻛﺍ ﻊﻤﻗ",
+			"model": "prop_barrier_wat_03b"
+		},
+		{
+			"name": "<FONT FACE = 'A9eelsh'>ﺭﻮﺒﻌﻟﺍ ﻉﻮﻨﻤﻣ",
+			"model": "prop_barrier_work05"
+		},
+		{
+			"name": "<FONT FACE = 'A9eelsh'>ﻝﺎﻤﻋﺍ ﺔﻘﻄﻨﻣ",
+			"model": "prop_barrier_work04a"
+		},
+		{
+			"name": "<FONT FACE = 'A9eelsh'>2 ﻝﺎﻤﻋﺍ ﺔﻘﻄﻨﻣ",
+			"model": "prop_barrier_work06b"
+		},
+		{
+			"name": "<FONT FACE = 'A9eelsh'>ﺮﻴﻐﺻ ﺰﺟﺎﺣ",
+			"model": "prop_barrier_work01c"
+		},
+		{
+			"name": "<FONT FACE = 'A9eelsh'>ﺮﻴﺒﻛ ﺰﺟﺎﺣ",
+			"model": "prop_barrier_work06a"
+		}
+	]
+}
