@@ -1,41 +1,308 @@
 [
 	{
-		"title": "Normal questions",
+		"title": "<FONT FACE = 'A9eelsh'>ﺔﻳﺩﺎﻋ ﺔﻠﺌﺳﺃ",
 		"questions": [
 			{
-				"question": "Have you been drinking recently?",
-				"answers": ["Yes.", "No.", "Of course I did."]
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻚﻟﺎﺣ ﻒﻴﻛ ﺎﺒﺣﺮﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>؟ﺖﻧﺃﻭ ,ﺪﻴﺟ.", "<FONT FACE = 'A9eelsh'>ﻱﺪﺣﻮﻟ ﻲﻨﻛﺮﺗﺍ", "<FONT FACE = 'A9eelsh'>ﻊﻗﻮﺗﺍ ﺪﻴﺟ ,ﻩﺎﻫ","<FONT FACE = 'A9eelsh'>؟ﺪﻳﺮﺗ ﺍﺫﺎﻣ", "<FONT FACE = 'A9eelsh'>ﺔﻠﺌﺳﻷﺍ ﻰﻠﻋ ﺐﻴﺟﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>ﺮﻣﻷﺍ ﺍﺬﻫ ﻲﻬﻧﺍ ﻂﻘﻓ"]
 			},
 			{
-				"question": "Where are you heading to?",
-				"answers": ["I'm going home.", "It's my own business..."]
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻴﺼﺨﺸﻟﺍ ﻚﺘﻳﻮﻫ ﻞﻤﺤﺗ ﻞﻫ ،**** ﺎﻧﺃ",
+				"answers": ["<FONT FACE = 'A9eelsh'>؟ﺍﺫﺎﻤﻟ", "<FONT FACE = 'A9eelsh'>!ﻲﻗﻮﻘﺣ ﻑﺮﻋﺃ ﺎﻧﺃ ،ﺄﻄﺧ ﺐﻜﺗﺭﺃ ﻢﻟ ", "<FONT FACE = 'A9eelsh'>*ﺔﻳﻮﻬﻟﺍ ﻢﻠﺴﻳ* .ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﺔﻳﻮﻬﻟﺍ ﻢﻴﻠﺴﺗ ﺾﻓﺮﻳ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻡﻮﻴﻟﺍ ﻚﻌﻣ ﺙﺪﺤﻳ ﺍﺫﺎﻣ ،ﺍًﺫﺇ",
+				"answers": ["<FONT FACE = 'A9eelsh'>.ﻲﻧﺄﺷﻭ ﻲﻨﻛﺮﺗﺍ ،ﺀﻲﺷ ﻻ", "<FONT FACE = 'A9eelsh'>ﻚﺑ ﻞﺼﺗﺃ ﻢﻟ ﺎﻧﺃ","<FONT FACE = 'A9eelsh'>*ﺖﻤﺼﻟﺍ ﻡﺰﺘﻠﻳ*", "<FONT FACE = 'A9eelsh'>ﺔﻠﺌﺳﻷﺍ ﻰﻠﻋ ﺐﻴﺟﺃ ﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>.ﻲﻗﻮﻘﺣ ﻑﺮﻋﺃ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>.ﺮﻳﺰﻨﺨﻟﺍ ﺎﻬﻳﺍ ,ﻲﻨﻋ ﻞﺣﺭﺍ", "<FONT FACE = 'A9eelsh'>.ﻊﻜﺴﺗﺃ ﻂﻘﻓ ﺎﻧﺃ ،ﺀﻲﺷ ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻚﻳﺪﻟ ﺔﺤﻠﺳﺃ ﻱﺃ ﻞﻤﺤﺗ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﺔﻴﻋﺍﺭﺫ ﻚﻟ ﻲﻨﺜﻳ* .ﺎﻨﻫ ﺔﺤﻠﺳﻷﺍ ﻩﺬﻫ ﻂﻘﻓ", "<FONT FACE = 'A9eelsh'>*ﺮﺗﻮﺘﺑ ﻪﺑﻮﻴﺟ ﺲﻤﻠﻳ*","<FONT FACE = 'A9eelsh'>*ﺖﻤﺼﻟﺍ ﻡﺰﺘﻠﻳ*", "<FONT FACE = 'A9eelsh'>ﺔﻠﺌﺳﻷﺍ ﻰﻠﻋ ﺐﻴﺟﺃ ﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>.ﻲﻗﻮﻘﺣ ﻑﺮﻋﺃ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>*ﺮﺗﻮﺘﻳﻭ ﻕﺮﻌﺘﻳ*"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻞﺒﻗ ﻦﻣ ﻚﻴﻠﻋ ﺾﺒﻘﻟﺍ ﻢﺗ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>.ﺍﺪﺑﺃ ﻻ", "<FONT FACE = 'A9eelsh'>.ﺔﻴﺒﻐﻟﺍ ﻝﺎﻌﻓﻷﺍ ﺾﻌﺒﻟ ،ﻢﻌﻧ","<FONT FACE = 'A9eelsh'>.ﻻ", "<FONT FACE = 'A9eelsh'>.ﻞﻳﻮﻃ ﺖﻗﻭ ﺬﻨﻣ ﻚﻟﺫ ﻥﺎﻛ ﺪﻘﺘﻋﺃ", "<FONT FACE = 'A9eelsh'>.ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺐﻫﺍﺫ ﺖﻧﺃ ﻦﻳﺍ ﻰﻟﺍ",
+				"answers": ["<FONT FACE = 'A9eelsh'>.ﺖﻴﺒﻟﺍ ﻲﻟﺍ ﺐﻫﺍﺫ ﺎﻧﺍ", "<FONT FACE = 'A9eelsh'>ﺖﻴﺒﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻖﻳﺮﻄﻟﺍ ﺍﺬﻫ ﻦﻣ", "<FONT FACE = 'A9eelsh'>ﻞﻤﻌﻟﺍ ﻰﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻞﻤﻌﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻝﻮﻘﻟﺍ ﻡﺪﻋ ﻞﻀﻓﺍ", "<FONT FACE = 'A9eelsh'>*ﻞﻴﻘﺛ ﻥﺎﺴﻟ* ﻚﻧﺄﺷ ﻦﻣ ﺲﻴﻟ ﻊﻗﺍﻮﻟﺍ ﻲﻓ ﻪﻧﺇ", "<FONT FACE = 'A9eelsh'>ﺮﻣﻷﺍ ﺍﺬﻫ ﻦﻣ ﻲﻬﺘﻨﻧﻭ ﺓﺮﻴﻐﺼﻟﺍ ﺚﻳﺩﺎﺣﻷﺍ ﻰﻄﺨﺘﻧ ﺎﻨﻋﺩ ،ﺮﻈﻧﺍ", "<FONT FACE = 'A9eelsh'>ﺔﻠﺌﺳﻷﺍ ﻰﻠﻋ ﺐﻴﺟﺃ ﻻ ﺎﻧﺃ"]
 			}
 		]
 	},
 	{
-		"title": "Traffic stop questions",
+		"title": "<FONT FACE = 'A9eelsh'>ﻱﺭﻭﺮﻤﻟﺍ ﻑﺎﻘﻳﻻﺍ ﺔﻠﺌﺳﺃ",
 		"questions": [
 			{
-				"question": "Hello, how are you?",
-				"answers": ["Hey!", "Hello officer!", "Good day sir!"]
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻚﻓﺎﻘﻳﺎﺑ ﺖﻤﻗ ﺍﺫﺎﻤﻟ ﻑﺮﻌﺗ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻚﻟ ﺖﺤﻤﺳ ﻲﻨﻧﻷ", "<FONT FACE = 'A9eelsh'>.ﻲﻧﺮﺒﺨﺘﺳ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﻲﻨﻜﻟ ،ﻻ", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>لابتزاز المال مني", "<FONT FACE = 'A9eelsh'>.ﺕﺎﻧﻭﺪﻟﺍ ﺔﺤﺋﺍﺭ ﻢﺷ ﻚﻨﻜﻤﻳ ﻪﻧﻷ", "<FONT FACE = 'A9eelsh'>.ﻼﻴﻠﻗ ...ﺓﺮﻴﺒﻛ ﺔﻋﺮﺴﺑ ﺮﻴﺳﺃ ﺖﻨﻛ ﻲﻨﻧﻷ"]
 			},
 			{
-				"question": "Hello",
-				"answers": ["Hey!", "Hello officer!", "Good day sir!"]
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺎﻫﺮﻴﺴﺗ ﺖﻨﻛ ﻲﺘﻟﺍ ﺔﻋﺮﺴﻟﺍ ﻑﺮﻌﺗ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺔﻋﺮﺴﻠﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ ﻂﺒﻀﻟﺎﺑ", "<FONT FACE = 'A9eelsh'>ﺔﻴﻟﺎﻋ ﺔﻋﺮﺴﺑ ﻚﻠﺘﺑ ﺩﻮﻗﺃ ﻦﻛﺃ ﻢﻟ", "<FONT FACE = 'A9eelsh'>؟ﻚﻟﺫ ﻲﻓ ﺍﺫﺎﻣ ﺮﺘﻣﻮﻠﻴﻛ 10 ﺎﺒﻳﺮﻘﺗ ", "<FONT FACE = 'A9eelsh'>؟ ﺮﺘﻣﻮﻠﻴﻛ 70 ﺎﺒﻳﺮﻘﺗ ،ﻩﺎﻫ", "<FONT FACE = 'A9eelsh'>.ﻑﺮﻋﺃ ﻻ", "<FONT FACE = 'A9eelsh'>.ﻲﻧﺮﺒﺨﺘﺳ ﻚﻨﻜﻟ ،ﻻ","<FONT FACE = 'A9eelsh'>.ﻖﻳﺮﻄﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻟﺎﺑ ﻻﻮﻐﺸﻣ ﺖﻨﻛ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>.ﻚﻠﻀﻓ ﻦﻣ ﻦﻴﻣﺄﺘﻟﺍﻭ ﺔﺼﺧﺮﻟﺍ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺔﻈﺤﻟ", "<FONT FACE = 'A9eelsh'>ﺎﻨﺴﺣ", "<FONT FACE = 'A9eelsh'>؟ﺖﻠﻌﻓ ﺍﺫﺎﻣ", "<FONT FACE = 'A9eelsh'>.ﺊﻃﺎﺧ ﺀﻲﺷ ﻱﺃ ﻞﻌﻓﺃ ﻢﻟ", "<FONT FACE = 'A9eelsh'>.ﺎﻴﻟﺎﺣ ﻲﻌﻣ ﺖﺴﻴﻟ ﻲﺘﺼﺧﺭ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻩﺎﻐﻠﻣ/ﺔﻘﻠﻌﻣ ﻚﺘﺼﺧﺭ ﻥﺍ ﻢﻠﻌﺗ",
+				"answers": ["<FONT FACE = 'A9eelsh'>!ﺔﺑﺬﻛ ﻩﺬﻫ ،ﻞﻴﺤﺘﺴﻣ ﻻ", "<FONT FACE = 'A9eelsh'>ﻦﻜﻤﻣ ﺮﻴﻏ ﺍﺬﻫ","<FONT FACE = 'A9eelsh'>.ﺡﺰﻤﺗ ﺖﻧﺍ ﻊﺒﻄﻟﺎﻳ", "<FONT FACE = 'A9eelsh'>.ﻩﺮﺘﻔﻟﺍ ﻩﺬﻫ ﺪﻳﺪﺠﺘﻟﺍ ﺕﺎﺋﺍﺮﺟﺎﺑ ﻡﻮﻗﺍ ﻲﻨﻧﺍ", "<FONT FACE = 'A9eelsh'>.ﻻ", "<FONT FACE = 'A9eelsh'>؟ﻞﻤﻌﻟﺍ ﻰﻟﺇ ﺓﺩﺎﻴﻘﻟﺍ ﻦﻣ ﻲﻟ ﺪﺑ ﻻ ﻦﻜﻟﻭ ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﺀﺍﺮﻫ ﺍﺬﻫ", "<FONT FACE = 'A9eelsh'>*ﺔﻳﺭﺎﺴﻟﺍ ﺔﺼﺧﺮﻟﺍ ﺮﻬﻈﻳ*", "<FONT FACE = 'A9eelsh'>ﺮﺠﺘﻤﻟﺍ ﻰﻟﺍ ﺎﺒﻫﺍﺫ ﻂﻘﻓ ﺖﻨﻛ ﺪﻘﻟ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻲﻬﺘﻨﻣ ﻦﻴﻣﺄﺘﻟﺍ ﻥﺃ ﻢﻠﻌﺗ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﻕﺍﺭﻭﻷﺍ ﻢﻠﺴﻳ*ﺖﻗﺆﻣ ﻦﻴﻣﺄﺗ ﻱﺪﻟ", "<FONT FACE = 'A9eelsh'>ﺭﺎﺳ ﻦﻴﻣﺄﺘﻟﺍ ﻻ", "<FONT FACE = 'A9eelsh'>.ﻲﺗﺭﺎﻴﺳ ﺖﺴﻴﻟ ﺎﻬﻧﺇ", "<FONT FACE = 'A9eelsh'>ﻒﺳﺁ ﺎﻧﺃ ،ﻢﻠﻋﺃ ﻻ ﺔﺣﺍﺮﺼﺑ", "<FONT FACE = 'A9eelsh'>ﻩﺎﻫ", "<FONT FACE = 'A9eelsh'>.؟ﻚﻟﺫ ﻢﻠﻌﺗ ﻞﻫ ،ﺔﻴﻏﺎﻃ ﺖﻧﺃ", "<FONT FACE = 'A9eelsh'>؟ﻪﻠﻌﻔﺘﻟ ﻞﻀﻓﺃ ﺀﻲﺷ ﻱﺃ ﻚﻳﺪﻟ ﺲﻴﻟﺃ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻚﺗﺭﺎﻴﺳ ﻩﺬﻫ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>.ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﺔﻠﺌﺳﻷﺍ ﻰﻠﻋ ﺐﻴﺟﺃ ﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>.؟ﺍﺫﺎﻤﻟ ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻩﺎﻫ", "<FONT FACE = 'A9eelsh'>.ﻲﻘﻳﺪﺼﻟ ﺎﻬﻧﺇ ،ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺓﺭﺎﻴﺴﻟﺍ ﻩﺬﻫ ﻰﻠﻋ ﺖﻠﺼﺣ ﻦﻳﺃ ﻦﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>..ﺭﺎﺟﺍ ﺎﻬﻧﺍ", "<FONT FACE = 'A9eelsh'>.ﺀﺎﻗﺪﺻﻷﺍ ﺪﺣﺃ ﻲﻟ ﺎﻫﺭﺎﻋﺃ", "<FONT FACE = 'A9eelsh'>ﺔﻠﺌﺳﻷﺍ ﻰﻠﻋ ﺐﻴﺟﺃ ﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>.ﻱﺭﺩﺃ ﻻ", "<FONT FACE = 'A9eelsh'>ﻩﺎﻫ", "<FONT FACE = 'A9eelsh'>ﺎﻬﺘﺑﺎﺟﺇ ﻑﺮﻌﺗ ﻥﺃ ﺪﻳﺮﺗ ﻻ ﺔﻠﺌﺳﺃ ﻝﺄﺴﺗ ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻞﻜﺸﻟﺍ ﺍﺫﺎﻬﺑ ﺩﻮﻘﺗ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>!ﺪﻠﺗ ﻲﺘﺟﻭﺯ ﻥﺍ", "<FONT FACE = 'A9eelsh'>!ﻲﺗﺭﺎﻈﻧ ﺖﻴﺴﻧ ﺪﻘﻟ", "<FONT FACE = 'A9eelsh'>ﺔﻠﺌﺳﻷﺍ ﻰﻠﻋ ﺐﻴﺟﺃ ﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>؟ﻞﺟﺭﺎﻳ ﺪﺼﻘﺗ ﺍﺫﺎﻣ ﺎﺒﺗ", "<FONT FACE = 'A9eelsh'>.ﺡﺮﻤﻟﺍ ﺾﻌﺒﺑ ﻰﻈﺣﺍ ﻥﺃ ﺕﺩﺭﺃﻭ ،ﻮﺘﻠﻟ ﺓﺭﺎﻴﺴﻟﺍ ﺖﻳﺮﺘﺷﺍ ﺪﻘﻟ", "<FONT FACE = 'A9eelsh'>؟ﻞﻜﺸﻟﺍ ﺍﺫﺎﻬﺑ ﺩﻮﻘﺗ ﺍﺫﺎﻤﻟ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻋﺮﺴﻟﺍ ﻩﺬﻬﺑ ﺩﻮﻘﺗ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>لأنني شعرت بذلك.", "<FONT FACE = 'A9eelsh'>!ﺔﻋﺮﺴﻟﺍ ﻰﻟﺍ ﺔﺟﺎﺣ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>.TopGun ﻮﺘﻠﻟ ﺕﺪﻫﺎﺷ ﺪﻘﻟ ،ﻞﺟﺭ ﺎﻳ ﻒﺳﺁ", "<FONT FACE = 'A9eelsh'>.ﺔﻴﻟﺎﻌﻟﺍ ﺔﻋﺮﺴﻟﺍ ﻚﻠﺘﺑ ﺩﻮﻗﺃ ﻦﻛﺃ ﻢﻟ", "<FONT FACE = 'A9eelsh'>.ﻙﺍﺭﺃ ﻢﻟ ﻲﻨﻧﻷ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻪﻨﻋ ﺚﺤﺒﺗ ﻱﺬﻟﺍ ﺎﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>....ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻝﻭﺎﺣﺃ ﻂﻘﻓ ﺎﻧﺃ ،ﺀﻲﺷ ﻻ", "<FONT FACE = 'A9eelsh'>ﻲﻗﻮﻘﺣ ﻑﺮﻋﺃ ﺎﻧﺃ !ﻻ", "<FONT FACE = 'A9eelsh'>.ﻲﻔﺗﺎﻫ ﺖﻄﻘﺳﺃ ﺪﻘﻟ", "<FONT FACE = 'A9eelsh'>*ﺮﺗﻮﺘﺑ ﻪﻟﻮﺣ ﺮﻈﻨﻳ*", "<FONT FACE = 'A9eelsh'>.ﺀﻲﺷ ﻻ ﻝ ﻝ ﻝ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺪﻳﺪﺷ ﺮﺗﻮﺘﺑ ﻑﺮﺼﺘﺗ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>.ﺔﻨﻴﻌﻠﻟﺍ ﺭﺎﺒﺧﻷﺍ ﻰﻟﺇ ﺮﻈﻧﺍ ،ﺮﺗﻮﺘﻟﺎﺑ ﺮﻌﺷﺃ ﻲﻨﻠﻌﺠﺗ ﺔﻃﺮﺸﻟﺍ", "<FONT FACE = 'A9eelsh'>ﺍﺮﺗﻮﺘﻣ ﺖﺴﻟ ﺎﻧﺍ", "<FONT FACE = 'A9eelsh'>*ﺖﻤﺼﻟﺍ ﻡﺰﺘﻠﻳ*", "<FONT FACE = 'A9eelsh'>.ﻱﺭﺩﺃ ﻻ", "<FONT FACE = 'A9eelsh'>ﺍﺮﺗﻮﺘﻣ ﺖﺴﻟ ﺎﻧﺍ", "<FONT FACE = 'A9eelsh'>..ﺐﺒﺴﻟﺍ ﻮﻫ ﺍﺬﻫ ،ﺎﻌﻴﻤﺟ ﻢﻜﻘﻴﻃﺃ ﻻ ﺎﻧﺃ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺍﺫﺎﻤﻟ ،ﻑﻮﻗﻮﻟﺍ ﺔﻣﻼﻋ ﺕﺯﻭﺎﺠﺗ",
+				"answers": ["<FONT FACE = 'A9eelsh'>؟ﻑﻮﻗﻭ ﺔﻣﻼﻋ ﻱﺃ", "<FONT FACE = 'A9eelsh'>.ﻑﻮﻗﻮﻟﺍ ﺔﻣﻼﻋ ﻯﺭﺃ ﻢﻟ", "<FONT FACE = 'A9eelsh'>.ﻢﻬﻤﻟﺍ ﺮﻣﻷﺎﺑ ﺖﺴﻴﻟ ,ﺎﻫﺯﻭﺎﺠﺘﺑ ﺖﻤﻗ ﻂﻘﻓ","<FONT FACE = 'A9eelsh'>؟ﺪﺼﻘﺗ ﺍﺫﺎﻣ ،ﻑﻮﻗﻭ ﺔﻣﻼﻋ ﺪﺟﻮﻳ ﻻ", "<FONT FACE = 'A9eelsh'>.ﻒﺳﺁ ،ﺎًﻬﺒﺘﻨﻣ ﻦﻛﺃ ﻢﻟ"]
 			}
 		]
 	},
 	{
-		"title": "Documentation questions",
+		"title": "<FONT FACE = 'A9eelsh'>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ/ﺏﺮﺸﻟﺍ ﺀﺎﻨﺛﺃ",
 		"questions": [
 			{
-				"question": "Do you have your drivers license with you?",
-				"answers": ["Yes.", "No.", "No, I left it at home."]
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻡﻮﻴﻟﺍ ﺀﻲﺷ ﺏﺮﺸﺑ ﺖﻤﻗ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺏﺮﺷﺃ ﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>.ﺓﺮﺘﻓ ﺬﻨﻣ ،ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>.ﺏﺮﺷﺍ ﻻ ﺎﻧﺍ ،ﻻ"]
+			},			
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻥﺎﺴﻠﻟﺍ ﻞﻴﻘﺛ ﻖﺋﺎﺴﻟﺍ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻒﻴﻔﻃ ﻞﻘﺛ", "<FONT FACE = 'A9eelsh'>ﻻ.", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
 			},
 			{
-				"question": "Do you have a hunting license?",
-				"answers": ["Nope.", "Yes sir yes."]
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻡﻮﻴﻟﺍ ﺀﻲﺷ ﻱﺃ ﺕﺬﺧﺃ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺲﻛﺎﻧﺍﺯ ﺕﺬﺧﺃ", "<FONT FACE = 'A9eelsh'>ﻚﻟﺫ ﻲﻠﺜﻣ ﺺﺨﺷ ﻝﺍﺆﺳ ﻰﻠﻋ ﺅﺮﺠﺗ ﻒﻴﻛ", "<FONT FACE = 'A9eelsh'>ﻻ.", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>ﻂﻘﻓ ﻝﻭﺩﺎﻣﺍﺮﺗ", "<FONT FACE = 'A9eelsh'>.ﻱﺪﻴﺳ ﻻ", "<FONT FACE = 'A9eelsh'>.ﻖﺑﺎﺳ ﺖﻗﻭ ﻲﻓ ﺶﻴﺸﺤﻟﺍ ﺾﻌﺑ ﺖﻨﺧﺩ ﺪﻘﻟ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻰﺘﻣ ﺬﻨﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>.ﺔﻋﺎﺳ ﻞﺒﻗ ﺎﺒﻳﺮﻘﺗ", "<FONT FACE = 'A9eelsh'>ﻦﻴﺘﻋﺎﺳ ﺬﻨﻣ", "<FONT FACE = 'A9eelsh'>.ﺲﻣﺃ ﺔﻠﻴﻟ", "<FONT FACE = 'A9eelsh'>.ﺡﺎﺒﺼﻟﺍ ﺍﺬﻫ", "<FONT FACE = 'A9eelsh'>.ﺔﻠﻴﻠﻗ ﺕﺎﻋﺎﺳ ﻞﺒﻗ ،ﻢﻠﻋﺃ ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺓﺭﺎﻴﺴﻟﺍ ﻲﻓ ﺀﻲﺷ ﻱﺃ ﻚﻳﺪﻟ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>.ﺶﻴﺸﺤﻟﺍ ﻦﻣ ﻼﻴﻠﻗ", "<FONT FACE = 'A9eelsh'>ﻻ...ﺎﺒﻳﺮﻘﺗ...ﺪﺼﻗﺍ ,ﻻ", "<FONT FACE = 'A9eelsh'>.ﺎﻬﻠﺧﺍﺪﺑ ﺍﺫﺎﻣ ﻢﻠﻋﺃ ﻻ ،ﻲﺗﺭﺎﻴﺳ ﺖﺴﻴﻟ ﺎﻬﻧﺇ", "<FONT FACE = 'A9eelsh'>؟ﻪﻠﻌﻔﺘﻟ ﻞﻀﻓﺃ ﺀﻲﺷ ﻱﺃ ﻚﻳﺪﻟ ﺲﻴﻟ ؟ﺎًﻘﺣ", "<FONT FACE = 'A9eelsh'>ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻠﻴﻠﻟﺍ ﺖﺑﺮﺷ ﻢﻛ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻦﻴﻨﺛﺍ ﺖﺑﺮﺷ ﺎﺒﻳﺮﻘﺗ *ﻞﻴﻘﺛ ﻥﺎﺴﻟ*", "<FONT FACE = 'A9eelsh'>.. ﺪﺣﺍﻭ ﻚﻟ ﺖﻠﻗ", "<FONT FACE = 'A9eelsh'>ﺔﻠﺌﺳﻷﺍ ﻰﻠﻋ ﺐﻴﺟﺃ ﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>*ﺆﻴﻘﺘﻟﺎﺑ ﺃﺪﺒﻳ*", "<FONT FACE = 'A9eelsh'>ﺮﻛﺬﺗﺍ ﻻ ﺎﻧﺃ *ﻞﻴﻘﺛ ﻥﺎﺴﻟ*"]
 			}
 		]
+	},
+	{
+		"title": "<FONT FACE = 'A9eelsh'>ﺕﺎﺒﻠﻄﻟﺍ",
+		"questions": [
+			{
+				"question": "<FONT FACE = 'A9eelsh'>ﻚﻠﻀﻓ ﻦﻣ ﺓﺭﺎﻴﺴﻟﺍ ﺊﻔﻃﺃ",
+				"answers": ["<FONT FACE = 'A9eelsh'>.ﻱﺪﻴﺳ ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>.؟ﺍﺫﺎﻤﻟ ﻻ", "<FONT FACE = 'A9eelsh'>؟ﺍﺫﺎﻤﻟ", "<FONT FACE = 'A9eelsh'>.ﻞﺟﺭﺎﻳ ﻯﺪﻫﺍ ,ﺎﻨﺴﺣ", "<FONT FACE = 'A9eelsh'>.ﻲﻗﻮﻘﺣ ﻑﺮﻋﺃ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>ﺖﻠﻌﻓ ﺍﺫﺎﻣ", "<FONT FACE = 'A9eelsh'>ﺀﺍﺮﻫ ﺍﺬﻫ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>ﻚﻠﻀﻓ ﻦﻣ ﻚﺗﺬﻓﺎﻧ ﻝﺰﻧﺍ",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﻩﺬﻓﺎﻨﻟﺍ ﻝﺰﻨﻳ*", "<FONT FACE = 'A9eelsh'>*ﻼﻴﻠﻗ ﻩﺬﻓﺎﻨﻟﺍ ﻝﺰﻨﻳ*", "<FONT FACE = 'A9eelsh'>؟ﻚﻟﺬﻟ ﺔﻄﻠﺳ ﻚﻳﺪﻟ", "<FONT FACE = 'A9eelsh'>*ﻩﺬﻓﺎﻨﻟﺍ ﻝﺰﻨﻳ*", "<FONT FACE = 'A9eelsh'>.ﻲﻗﻮﻘﺣ ﻑﺮﻋﺃ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>*ﻩﺬﻓﺎﻨﻟﺍ ﻝﺰﻨﻳ*", "<FONT FACE = 'A9eelsh'>its down far enoﻩﺎﻫ."]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>ﻚﻠﻀﻓ ﻦﻣ ﻚﺗﺭﺎﻴﺳ ﻦﻣ ﺝﺮﺧﺍ",
+				"answers": ["<FONT FACE = 'A9eelsh'>؟ﺖﻠﻌﻓ ﺍﺫﺎﻣ", "<FONT FACE = 'A9eelsh'>*ﻩﺭﺎﻴﺴﻟﺍ ﻦﻣ ﺝﺮﺨﻳ*", "<FONT FACE = 'A9eelsh'>؟ﺖﻠﻌﻓ ﺍﺫﺎﻣ", "<FONT FACE = 'A9eelsh'>.ﺀﺍﺮﻫ ،ﺔﻄﻠﺴﻟﺍ ﻝﻼﻐﺘﺳﺍ ﻮﻫ ﺍﺬﻫ" , "<FONT FACE = 'A9eelsh'>؟؟ﺍﺫﺎﻤﻟ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>ﻚﻠﻀﻓ ﻦﻣ ﻦﻴﻣﺄﺘﻟﺍ",
+				"answers": ["<FONT FACE = 'A9eelsh'>.ﺊﻃﺎﺧ ﺀﻲﺷ ﻞﻌﻓﺍ ﻢﻟ ﺎﻧﺃ ,ﻻ", "<FONT FACE = 'A9eelsh'>.ﺓﺪﺣﺍﻭ ﺔﻈﺤﻟ .ﻱﺪﻴﺳ ﻢﻌﻧ", ]
+			}
+		]
+		
+	},
+	{
+		"title": "<FONT FACE = 'A9eelsh'>ﺕﺎﻈﺣﻼﻤﻟﺍ",
+		"questions": [
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻪﻔﺗﺎﻫ ﻡﺪﺨﺘﺴﻳ ﻖﺋﺎﺴﻟﺍ ﻥﺎﻛ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺍﺫﺎﻤﻟ ،ﻚﻔﺗﺎﻫ ﻡﺪﺨﺘﺴﺗ ﻚﺘﻳﺃﺭ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻂﺋﺍﺮﺨﻟﺍ ﻰﻟﺇ ﺮﻈﻧﺍ ﺖﻨﻛ", "<FONT FACE = 'A9eelsh'>*ﺓﺮﻴﺧﻷﺍ ﻞﺋﺎﺳﺮﻟﺍ ﻚﻳﺮﻳ*", "<FONT FACE = 'A9eelsh'>ﺮﺘﻳﻮﺗ ﺢﻔﺼﺗﺍ ﺖﻨﻛ", "<FONT FACE = 'A9eelsh'>ﺝﺎﻴﻜﻤﻟﺍ ﻝﺪﻋﺍ ﺖﻨﻛ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*", "<FONT FACE = 'A9eelsh'>ﻲﻃﺮﺸﻟﺍ ﺎﻬﻳﺍ ﺏﺬﻜﺗﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>ﻥﺎﻣﻷﺍ ﻡﺍﺰﺣ ﻱﺪﺗﺮﻳ ﻖﺋﺎﺴﻟﺍ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>ﻥﺎﻣﻷﺍ ﻡﺍﺰﺣ ﻥﻭﺪﺗﺮﻳ ﺏﺎﻛﺮﻟﺍ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ"]
+			}
+		]
+		
+	},
+	{
+		"title": "<FONT FACE = 'A9eelsh'>ﺔﻳﺭﺎﺠﺘﻟﺍ ﺕﺎﺒﻛﺮﻤﻟﺍ ﺺﺤﻓ",
+		"questions": [
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻦﻴﻘﺋﺎﺴﻠﻟ ﺐﺗﺮﻣ ﻞﺠﺳ ﺪﺟﻮﻳ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻞﺠﺴﻣ ﺮﻴﻏ ﻖﺋﺎﺴﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻲﻓﺎﺿﻻﺍ ﻞﻤﻌﻟﺍ ﺕﻼﺠﺳ ﻲﻓ ﻖﺋﺎﺴﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ."]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻳﺭﺎﺠﺗ ﺔﺼﺣﺭ ﻖﺋﺎﺴﻟﺍ ﻰﻳﺪﻟ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻳﺮﻳﺬﺤﺗ ﺕﺎﺘﻓﻻ ﺓﺭﺎﻴﺴﻟﺍ ﻲﻓ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺪﺋﺍﺯ ﻥﺯﻭ ﺪﺟﻮﻳ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺪﺋﺍﺯ ﻥﺯﻭ ﺢﻳﺮﺼﺗ ﺪﺟﻮﻳ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻨﻣﺁ ﺔﻟﺎﺣ ﻲﻓ ﺕﺍﺭﺎﻃﻹﺍ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻨﻣﺁ ﺔﻟﺎﺣ ﻲﻓ ﻞﻣﺍﺮﻔﻟﺍ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻞﻤﻌﺗ ﺀﺍﻮﺿﻷﺍ ﻊﻴﻤﺟ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺓﺩﻮﺟﻮﻣ ﺕﺎﻓﺎﺴﻨﻟﺍ ﻊﻴﻤﺟ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻨﻣﺆﻣ ﺓﺭﻮﻄﻘﻤﻟﺍ/ﺔﻟﻮﻤﺤﻟﺍ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ.", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ", "<FONT FACE = 'A9eelsh'>ﻻ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ." , "<FONT FACE = 'A9eelsh'>ﻢﻌﻧ"]
+			}
+		]
+		
+	},
+	{
+		"title": "<FONT FACE = 'A9eelsh'>ﺶﻴﺘﻔﺘﻟﺍ ﺔﻠﺌﺳﺃ/ﺕﺎﻈﺣﻼﻣ ﺏﺎﺒﺳﺃ",
+		"questions": [
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻚﻌﻣ ﺊﻴﺷ ﻞﻤﺤﺗ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﻪﻟﺎﻄﻨﺑ ﺏﻮﻴﺟ ﺝﺮﺨﻳ* ﻻ", "<FONT FACE = 'A9eelsh'>.ﺀﻲﺷ ﻲﻌﻣ ﺲﻴﻟ", "<FONT FACE = 'A9eelsh'>.ﻊﻗﻮﺗﺍ ﺍﺍﺍ ,ﻩﺎﻫ","<FONT FACE = 'A9eelsh'>.ﻲﺧﺃ ﺎﻳ ﺀﻲﺷ ﻱﺪﻟ ﺲﻴﻟ ،ﻻ", "<FONT FACE = 'A9eelsh'>ﻻ.", "<FONT FACE = 'A9eelsh'>ﻻ."]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻪﺘﻓﺮﻌﻣ ﻲﻠﻋ ﺐﺠﻳ ﺀﻲﺷ ﻚﻳﺪﻟ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>!ﻡﻼﻜﻟﺍ ﺍﺬﻫ ﻞﺒﻗﺃ ﻻ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>!ﻲﻗﻮﻘﺣ ﻑﺮﻋﺃ ﺎﻧﺃ ،ﺄﻄﺧ ﺐﻜﺗﺭﺃ ﻢﻟ", "<FONT FACE = 'A9eelsh'>!ﺎﻬﺸﻴﺘﻔﺗ ﻚﻨﻜﻤﻳ ﻻﻭ ،ﻲﺗﺭﺎﻴﺳ ﺖﺴﻴﻟ", "<FONT FACE = 'A9eelsh'>!ﻢﺴﻗﺃ ،ﺎﻨﻫ ﺀﻲﺷ ﺪﺟﻮﻳ ﻻ", "<FONT FACE = 'A9eelsh'>.ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ ﻲﻨﺸﺘﻔﺘﺳ,ﻲﺸﻴﺘﻔﺘﺑ ﻢﻗ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺖﺑﺮﻫ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻩﺍﺩ ...ﻲﻧﺩﺭﺎﻄﺗ ﺖﻨﻛ ﻚﻧﻷ", "<FONT FACE = 'A9eelsh'>ﻚﻟ ﻝﻮﻗﺃ ﻥﺃ ﺪﻳﺭﺃ ﻻ ﺎﻘﺣ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>ﻲﻃﺮﺷ ﻊﻣ ﺔﺌﻴﺳ ﺔﺑﺮﺠﺗ ﻲﻟ ﺖﻧﺎﻛ", "<FONT FACE = 'A9eelsh'>ﺃﺪﻫﺍ ،ﻂﻘﻓ ﺾﻛﺭﺃ ﺖﻨﻛ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*", "<FONT FACE = 'A9eelsh'>ﺮﻳﺰﻨﺨﻟﺍ ﺎﻬﻳﺍ ﻲﻨﻋ ﻞﺣﺭﺍ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﻞﻌﻔﺗ ﺍﺫﺎﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻖﻤﺣﻷﺍ ﺎﻬﻳﺃ ﺎﻨﻫ ﺶﻴﻋﺃ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>ﺔﻳﻭﺍﺰﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺶﻴﻋﺃ ﺎﻧﺃ", "<FONT FACE = 'A9eelsh'>؟ﻲﻧﻮﻧﺎﻗ ﺮﻴﻏ ﺍﺬﻫ ,ﻲﻣﺃ ﺭﻭﺯﺃ", "<FONT FACE = 'A9eelsh'>ﺯﻮﻛﺎﺗ ﻎﻴﺑ ﻰﻟﺍ ﺐﻫﺍﺫ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*", "<FONT FACE = 'A9eelsh'>.ﺮﻳﺰﻨﺨﻟﺍ ﺎﻬﻳﺍ ,ﻲﻨﻋ ﻞﺣﺭﺍ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺓﺭﺎﻴﺴﻟﺍ ﻲﻓ ﺀﻲﺷ ﻢﺷﺃ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺮﺋﺎﺠﺴﻟﺍ ﻞﺜﻣ ﺔﺤﺋﺍﺭ", "ﺀﻲﺷ ﻻ", "<FONT FACE = 'A9eelsh'>ﻡﺎﺨﻟﺍ ﺎﻧﺍﻮﺠﻳﺭﺎﻤﻟﺍ ﻞﺜﻣ ﺔﺤﺋﺍﺭ", "<FONT FACE = 'A9eelsh'>ﺀﻲﺷ ﻻ", "<FONT FACE = 'A9eelsh'>ﺕﺎﻔﻈﻨﻣ ﺔﺤﺋﺍﺭ", "<FONT FACE = 'A9eelsh'>ﻝﻮﺤﻜﻟﺍ ﻞﺜﻣ ﺔﺤﺋﺍﺭ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>ﻞﺟﺮﻟﺍ ﻦﻣ ﺀﻲﺷ ﻢﺷﺃ ﻞﻋ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺮﺋﺎﺠﺴﻟﺍ ﻞﺜﻣ ﺔﺤﺋﺍﺭ", "<FONT FACE = 'A9eelsh'>ﺀﻲﺷ ﻻ", "<FONT FACE = 'A9eelsh'>ﻡﺎﺨﻟﺍ ﺎﻧﺍﻮﺠﻳﺭﺎﻤﻟﺍ ﻞﺜﻣ ﺔﺤﺋﺍﺭ", "<FONT FACE = 'A9eelsh'>ﺀﻲﺷ ﻻ", "<FONT FACE = 'A9eelsh'>ﻝﻮﺤﻜﻟﺍ ﻞﺜﻣ ﺔﺤﺋﺍﺭ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺺﺨﺸﻟﺍ ﻑﺮﺼﺘﻳ ﻒﻴﻛ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻖﻳﺎﻀﺘﻣ", "<FONT FACE = 'A9eelsh'>ﺮﺗﻮﺘﻣ", "<FONT FACE = 'A9eelsh'>ﻚﻴﻟﺍ ﺮﻈﻨﻳ ﻻﻭ ﻪﺑﻮﻴﺟ ﺪﻘﻔﺘﻳ", "<FONT FACE = 'A9eelsh'>ﺍﺮﻴﺜﻛ ﺰﻴﻛﺮﺘﻟﺍ ﺪﻘﻔﻳ", "<FONT FACE = 'A9eelsh'>ﻒﻨﻌﺑ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺲﺑﻼﻤﻟﺍ ﻲﻓ ﺕﺎﺧﺎﻔﺘﻧﺍ ﺪﺟﻮﻳ ﻞﻫ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺔﺌﻴﻠﻣ ﺏﻮﻴﺟ", "<FONT FACE = 'A9eelsh'>ﻕﺎﺴﻟﺍ ﻞﻔﺳﺃ ﻰﻟﺇ ﺥﺎﻔﺘﻧﺍ", "<FONT FACE = 'A9eelsh'>ﺔﺌﻠﺘﻤﻣ ﻭﺪﺒﺗ ﺏﺭﺍﻮﺠﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻡﺍﺰﺤﻟﺍ ﻲﻓ ﺐﻳﺮﻏ ﺥﺎﻔﺘﻧﺍ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>ﻖﺋﺎﺴﻟﺍ ﻙﻮﻠﺳ ﻮﻫ ﺎﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺞﻋﺰﻨﻣ", "<FONT FACE = 'A9eelsh'>ﺮﺗﻮﺘﻣ", "<FONT FACE = 'A9eelsh'>ﻒﺋﺎﺧ", "<FONT FACE = 'A9eelsh'>ﺔﻴﺋﺍﺪﻌﺑ ﻒﺋﺎﺧ", "<FONT FACE = 'A9eelsh'>ﻲﻟﺍﺪﺟﻭ ﻥﻮﻨﺠﻣ", "<FONT FACE = 'A9eelsh'>متوتر وعصبي", "<FONT FACE = 'A9eelsh'>ﻱﺩﺎﻋﻭ ﺉﺩﺎﻫ"]
+			}
+		]
+	},
+	{
+		"title": "<FONT FACE = 'A9eelsh'>ﺶﻴﺘﻔﺘﻟﺍ ﺪﻌﺑ ﺔﻠﺌﺳﺃ",
+		"questions": [
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻩﺪﻳﺪﻋ ﻒﺗﺍﻮﻫ ﻚﻳﺪﻟ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻞﻤﻌﻟﺍ ﻲﻔﺗﺍﻮﻫﻭ ﻲﻔﺗﺍﻮﻫ ﺎﻬﻧﺇ", "<FONT FACE = 'A9eelsh'>ﻲﻘﻳﺪﺼﻟ ﻢﻬﻤﻴﻠﺴﺗ ﺪﻳﺭﺍ", "<FONT FACE = 'A9eelsh'>ﺮﺧﺁ ﺺﺨﺸﻟ ﻢﻬﺌﺒﺧﺍ", "<FONT FACE = 'A9eelsh'>*ﺮﺗﻮﺘﻟﺎﺑ ﺍﺪﺒﻳﻭ ﺖﻤﺼﻳ*", "<FONT FACE = 'A9eelsh'>ﺔﻃﺮﺸﻟ ﻢﻬﻤﻠﺳﺄﺳ ﺖﻨﻛ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻢﻬﺗﺪﺟﻭ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*", "<FONT FACE = 'A9eelsh'>ﻚﻟﺫ ﻲﻓ ﺮﻣﻷﺍ ﺎﻣ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺮﺧﺁ ﻢﺳﺎﺑ ﻥﺎﻤﺘﺋﺍ ﺔﻗﺎﻄﺑ",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﺮﺗﻮﺘﻣ ﻭﺪﺒﻳ* ﻲﺗﺪﻟﺍﻮﻟ ﺎﻬﻧﺇ", "<FONT FACE = 'A9eelsh'>ﻲﺘﺒﻴﺒﺤﻟ ﺎﻬﻧﺇ", "<FONT FACE = 'A9eelsh'>*ﺮﺗﻮﺘﻣ ﻭﺪﺒﻳ* ﻢﻳﺪﻘﻟﺍ ﻲﻤﺳﺍ ﺍﺬﻫ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*" , "<FONT FACE = 'A9eelsh'>ﺔﻃﺮﺸﻟ ﻢﻬﻤﻠﺳﺄﺳ ﺖﻨﻛ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻢﻬﺗﺪﺟﻭ" , "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺕﺎﻣﻼﻌﻟﺍ ﻊﻣ ﺀﺎﻴﺷﻻﺍ ﻩﺬﻫ ﻚﻳﺪﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>...ﺎﻬﺘﻟﺍﺯﺍ ﺍﻮﺴﻧ ﺪﻘﻟ", "<FONT FACE = 'A9eelsh'>ﻲﺑ ﺖﻌﻗﻭﺍ ﺎﻨﺴﺣ", "<FONT FACE = 'A9eelsh'>ﻲﻘﻳﺪﺼﻟ ﻢﻬﺑ ﻆﻔﺘﺣﺍ ﻂﻘﻓ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*" , "<FONT FACE = 'A9eelsh'>ﺔﻃﺮﺸﻟ ﻢﻬﻤﻠﺳﺄﺳ ﺖﻨﻛ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻢﻬﺗﺪﺟﻭ" , "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻩﺎﻐﻠﻣ/ﺔﺼﺧﺭ ﻥﻭﺪﺑ ﺪﻴﺻ ﺕﺍﺪﻌﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﺩﺪﺠﻤﻟﺍ ﺺﻴﺧﺮﺘﻟﺍ ﻢﻠﺴﻳ*", "<FONT FACE = 'A9eelsh'>ﻚﻤﺴﻟﺍ ﺪﻴﺻ ﺩﺮﺠﻣ ﻪﻧﺍ ﺔﻨﻌﻠﻟﺍ ﺎﻳ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*", "<FONT FACE = 'A9eelsh'>*$100 ﻦﻣ ﺮﺜﻛﺍ ﻩﻮﺷﺭ ﻡﺪﻘﻳ*"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺓﺭﺎﻴﺴﻟﺍ ﻲﻓ ﺕﺍﻭﺩﺍ ﻚﻳﺪﻟ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﻞﻤﻌﻟﺍ ﺔﻗﺎﻄﺑ ﻢﻠﺴﻳ* ﻞﻤﻌﻠﻟ", "<FONT FACE = 'A9eelsh'>*ﻕﺮﻌﺘﻟﺎﺑ ﺃﺪﺒﻳ*", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*", "<FONT FACE = 'A9eelsh'>ﻲﻣﺎﺤﻤﻟﺍ ﻲﺗﺄﻳ ﻥﺍ ﻞﺒﻗ ﺀﻲﺷ ﻝﻮﻗﺍ ﻦﻟ" , "<FONT FACE = 'A9eelsh'>ﻖﻳﺪﺼﻟ ﻢﻬﺑ ﻆﻔﺘﺣﺃ", "<FONT FACE = 'A9eelsh'>ﻲﻠﻴﻣﺯ ﻰﻟﺇ ﻲﺑﺁﺮﻣ ﻦﻣ ﻢﻬﻠﻘﻧﺍ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻯﺮﺧﺃ ﺓﺭﺎﻴﺳ ﺡﺎﺘﻔﻣ ﻚﻳﺪﻟ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻞﻤﻌﻟﺍ ﺓﺭﺎﻴﺳ", "<FONT FACE = 'A9eelsh'>ﻞﻤﻌﻟﺍ ﺔﻨﺣﺎﺷ", "<FONT FACE = 'A9eelsh'>ﻲﺗﺪﻟﺍﻭ ﺓﺭﺎﻴﺳ", "<FONT FACE = 'A9eelsh'>ﻱﺪﻟﺍﻭ ﺓﺭﺎﻴﺳ" , "<FONT FACE = 'A9eelsh'>ﻲﺘﺧﺃ ﺓﺭﺎﻴﺳ", "<FONT FACE = 'A9eelsh'>ﻲﺧﺃ ﺓﺭﺎﻴﺳ" , "<FONT FACE = 'A9eelsh'>*ﺍﺮﺗﻮﺘﻣ ﻭﺪﺒﻳ*" , "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺔﺒﻴﻘﺤﻟﺍ ﻲﻓ ﺮﻴﺒﻛ ﻎﻠﺒﻣ ﻚﻳﺪﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>؟ﻝﺎﻤﻟﺍ ﻞﻤﺣ ﻲﻓ ﺔﻤﻳﺮﺠﻟﺍ ﺎﻣ.", "<FONT FACE = 'A9eelsh'>*ﻕﺮﻌﺘﻟﺎﺑ ﺃﺪﺒﻳ*", "<FONT FACE = 'A9eelsh'>*ﺍﺮﺗﻮﺘﻣ ﻭﺪﺒﻳ*.", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*" , "<FONT FACE = 'A9eelsh'>ﻚﻟﺫ ﻦﻋ ﺙﺪﺤﺘﻧ ﻻ ﺎﻨﻋﺩ ﺮﻈﻧﺍ" , "<FONT FACE = 'A9eelsh'>ﺎﻫﺬﺧﺄﺗ ﻦﻟ ﺔﻨﻌﻠﻟﺍ", "<FONT FACE = 'A9eelsh'>ﻲﻗﻮﻘﺣ ﻑﺮﻋﺍ ﺎﻧﺃ ,ﻲﻃﺮﺸﻟﺍ ﺎﻬﻳﺃ" , "<FONT FACE = 'A9eelsh'>*ﻚﻴﻠﻋ ﻖﺼﺒﻳ*"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>?ﺾﻴﺑﻷﺍ ﻕﻮﺤﺴﻤﻟﺍ ﻦﻣ ﺲﻴﻜﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>؟ﻝﺄﺴﺗ ﺍﺫﺎﻤﻟ ﻩﻭﺍ", "<FONT FACE = 'A9eelsh'>؟ﻲﺒﻏ ﺖﻧﺍ ﻞﻫ", "<FONT FACE = 'A9eelsh'>ﻦﻴﻳﺎﻛﻮﻛ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*" , "<FONT FACE = 'A9eelsh'>ﻖﻳﺪﺼﻟ ﺮﻜﺳ ﺲﻴﻛ" , "<FONT FACE = 'A9eelsh'>ﺮﻴﻐﺻ ﺢﻠﻣ ﺲﻴﻛ ﻲﻌﻣ ﻞﻤﺣﺍ ﻥﺍ ﺐﺣﺍ", "<FONT FACE = 'A9eelsh'>*ﺍﺮﺗﻮﺘﻣ ﻭﺪﺒﻳ*"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺮﺧﺁ ﺺﺨﺷ ﻢﺳﺎﺑ ﺏﻮﺒﺣ ﻚﻳﺪﻟ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺔﻴﻟﺪﻴﺼﻟﺍ ﻦﻣ ﻮﺘﻠﻟ ﺕﺪﻋ ,ﻲﺘﻠﺋﺎﻌﻟ", "<FONT FACE = 'A9eelsh'>*ﻕﺮﻌﺘﻟﺎﺑ ﺃﺪﺒﻳ*", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*", "<FONT FACE = 'A9eelsh'>ﻲﻧﻮﻧﺎﻗ ﺮﻴﻏ ﻪﻧﺃ ﻢﻠﻋﺃ ﻦﻛﺃ ﻢﻟ ﺮﻈﻧﺍ" , "<FONT FACE = 'A9eelsh'>؟ﻚﻟﺫ ﻲﻓ ﺄﻄﺨﻟﺍ ﺎﻣ" , "<FONT FACE = 'A9eelsh'>ﺎﺒﺗ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻚﻴﺘﺳﻼﺑ ﺡﻼﺳ ﻚﺗﺭﺎﻴﺳ ﻲﻓ/ﻚﻌﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﺖﻓﻮﺳﺮﻳﺍ ﻪﺒﻌﻟ ﻰﻟﺍ ﺐﻫﺍﺫ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*", "<FONT FACE = 'A9eelsh'>ﻒﺳﺍ ﺎﻧﺍ", "<FONT FACE = 'A9eelsh'>؟ﻉﻮﻨﻤﻣ ﺍﺬﻫﺃ ،ﺔﻳﺎﻤﺤﻠﻟ ﻪﻣﺪﺨﺘﺳﺃ" , "<FONT FACE = 'A9eelsh'>!ﺞﻀﻧﺍ ﻚﻴﺘﺳﻼﺑ ﺡﻼﺳ ﺩﺮﺠﻣ ﻪﻧﺍ" , "<FONT FACE = 'A9eelsh'>ﺪﺣﺃ ﻲﻟ ﺽﺮﻌﺘﻳﻻ ﻰﺘﺣ ﻲﻌﻣ ﺎﻬﻴﻘﺑﺍ", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>*ﺔﻃﺮﺸﻟﺍ ﺔﻗﺎﻄﺑ ﻦﻣ ﻖﻘﺤﺗ*",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﺔﻔﻳﺰﻣ ﺔﻗﺎﻄﺑ*", "<FONT FACE = 'A9eelsh'>.ﻲﻠﻤﻋ ﻦﻣ ﻞﺼﻓﺄﺳ ،ﻲﻨﻋ ﻎﻠﺒﺗ ﻻ", "<FONT FACE = 'A9eelsh'>.ﺎًﻤﻴﺤﺟ ﻚﺗﺎﻴﺣ ﻞﻌﺟﺃﻭ ﻙﺩﺮﻃﺄﺳ ،ﺶﺘﻔﻣ ﺎﻧﺍ" , "<FONT FACE = 'A9eelsh'>*ﻞﻣﻷﺍ ﺪﻘﻔﻳ*" , "<FONT FACE = 'A9eelsh'>*ﺀﺎﻜﺒﻟﺎﺑ ﺃﺪﺒﻳ*", "<FONT FACE = 'A9eelsh'>*ﻖﻴﻠﻌﺗ ﻻ*" , "<FONT FACE = 'A9eelsh'>*ﺔﻳﺭﺎﺳ ﺔﻗﺎﻄﺑ*"]
+			}
+		]
+		
+	},
+	{
+		"title": "<FONT FACE = 'A9eelsh'>ﻁﺎﺒﻀﻧﻻﺍ ﺮﻴﻏﻭ ﺮﻜﺳ ﺔﻟﺎﺣ",
+		"questions": [
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﻥﻼﺗﺎﻘﺘﺗ ﺎﻤﺘﻨﻛ ﺍﺫﺎﻤﻟ",
+				"answers": ["<FONT FACE = 'A9eelsh'>ﻚﻟﺫ ﺕﺃﺪﺑ ﻲﻫ / ﻮﻫ", "<FONT FACE = 'A9eelsh'>ﻞﺗﺎﻘﺘﻧ ﻦﻜﻧ ﻢﻟ ﺎﻴﻓﺮﺣ ,ﺏﺫﺎﻛ", "<FONT FACE = 'A9eelsh'>ﺃﺪﻫﺍ ﺀﺎﻗﺪﺻﺍ ﻦﺤﻧ", "<FONT FACE = 'A9eelsh'>ﻲﻨﻠﺘﻘﺗ ﻑﻮﺳ ﺎﻬﻧﺃ / ﻪﻧﺃ ﺕﺪﻘﺘﻋﺍ", "ﻻ"]
+			},
+			{
+				"question": "<FONT FACE = 'A9eelsh'>؟ﺺﺨﺸﻟﺍ ﺮﻜﺳ ﻯﺪﻣ ﺎﻣ",
+				"answers": ["<FONT FACE = 'A9eelsh'>*ﺪﺣ ﻰﺼﻗﻷ*", "<FONT FACE = 'A9eelsh'>*ﺎﻣ ﺪﺣ ﻰﻟﺍ ﺍﺮﻴﺜﻛ*", "<FONT FACE = 'A9eelsh'>*ﺢﺿﺍﻭ ﻞﻜﺸﺑ ﺮﻜﺳ ﺔﻟﺎﺣ ﻲﻓ*", "<FONT FACE = 'A9eelsh'>*ﺎﻣ ﺎﻋﻮﻧ ﺮﻜﺳ ﺔﻟﺎﺣ ﻲﻓ*", "<FONT FACE = 'A9eelsh'>*ﻼﻴﻠﻗ ﻥﺍﺮﻜﺳ*", "<FONT FACE = 'A9eelsh'>*ﻥِﺰّﺘُﻣ*"]
+			}
+		]
+		
 	}
 ]
