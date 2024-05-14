@@ -1,92 +1,84 @@
 {
     "violations":{
-        "Public":[
-            "Public Intoxication",
-            "Jaywalking",
-            "Trespassing",
-            "Loitering",
-            "Fighting",
-            "Disturbing the peace"
+        "الأمن والحيازة":[
+            "في حالة سكر وغير منظم",
+            "تعكير صفو السلام",
+            "حيازة فئة أ (حالة استثنائية)",
+            "حيازة فئة ب",
+            "جيازة فئة ج"
         ],
-        "Documentation":[
-            "Expired Driver`s license",
-            "Expired Registration",
-            "Expired Insurance",
-            "Invalid Driver`s license",
-            "Invalid Registration",
-            "Invalid Insurance"
+        "الوثائق":[
+            "رخصة سير منتهية",
+            "تأمين منتهي",
+            "رخصة الأسلحة النارية منتهية",
+            "رخصة صيد منتهية",
+            "رخصة سير غير صالحة",
+            "التأمين غير صالح",
+            "رخصة سلاح ناري غير صالحة أثناء حيازة سلاح ناري"
         ],
-        "Traffic Violations":[
-            "Speeding (+5-15 mph)",
-            "Speeding (+16-25 mph)",
-            "Speeding(+25+ mph)",
-            "Leaving the scene of an accident",
-            "Reckless driving",
-            "Running a red light",
-            "Running a stop sign",
-            "Distracted driving",
-            "Unlawful vehicle modification",
-            "Seat belt violation",
-            "Failure to yield",
-            "Improper turn",
-            "Improper passing",
-            "Improper lane change"
+        "المخالفات المرورية":[
+            "سرعة فوق 15",
+            "سرعة فوق 30",
+            "سرعة فوق 45",
+            "سرعة فوق 65",
+            "القيادة اثناء تأثير الكحول",
+            "القيادة بتهور",
+            "تخطي اشارة حمراء",
+            "تخطي علامة وقوف",
+            "استخدام جهاز محمول اثناء القيادة",
+            "تعديل السيارة بشكل غير قانوني",
+            "عدم ربط حزام امان",
+            "عدم استخدام الإشارة الضوئية عند تغيير المسار",
+            "تغيير المسار بشكل غير صحيح"
         ]
     },
     "charges":{
-        "Posession":[
-            "Posession of Marijuana",
-            "Posession of Cocaine",
-            "Posession of Narcotics",
-            "Posession of a Stolen Vehicle",
-            "Posession of a Stolen Firearm",
-            "Posession of Counterfeit Money",
-            "Illegal Posession of Firearms"
+        "الحيازة":[
+            "حيازة فئة أ",
+            "حيازة فئة ب",
+            "حيازة فئة ج",
+            "الحيازة بقصد الترويج (الفئة أ)",
+            "الحيازة بقصد الترويج (الفئة ب)",
+            "الحيازة بقصد الترويج (الفئة ج)",
+            "حيازة مسروقات",
+            "حيازة نقود مزورة",
+            "حيازة مواد قابلة للاشتعال في الأماكن العامة",
+            "حيازة سلاح ناري",
+			"حيازة سلاح أبيض",
+            "حيازة ذخيرة"
         ],
-        "Assault":[
-            "Aggravated Assault/Battery",
-            "First Degree Murder",
-            "Second Degree Murder",
-            "Third Degree Murder",
-            "Assault with a Deadly Weapon",
-            "Hostage Taking",
-            "Drive-by Shooting",
-            "Assasination",
-            "Armed Robbery",
-            "Arson"
+        "الاعتداء / العنف":[
+            "Common assault",
+            "شجار",
+            "التسبب في اذى جسدي فعلي",
+            "التسبب في اذى جسدي خطير",
+            "التسبب في اذى جسدي خطير بقصد",
+            "الشروع في القتل",
+            "قتل",
+            "استخدام الألعاب النارية يعرض الحياة للخطر",
+            "استخدام الألعاب النارية لإحداث أضرار جنائية",
+            "حريق متعمد"
         ],
-        "Domestic Violence":[
-            "Aggravated Identity Theft",
-            "Attempting to commit Murder/Manslaughter",
-            "Bankruptcy Fraud",
-            "Bank Robbery",
-            "Breaking and Entering",
-            "Computer Crime",
-            "Concealing Escaped Prisoner",
-            "Concealing Person from Arrest",
-            "Conspiracy",
-            "Credit/Debit Card Fraud",
-            "Domestic Terrorism",
-            "Domestic Violence"
+        "السرقة/السطو":[
+            "سرقة",
+            "السطو",
+            "السرقة باستخدام سلاح أبيض",
+            "السرقة باستخدام بسلاح ناري",
+            "تخطيط مؤامرة لارتكاب جريمة السطو",
+            "$سرقة أقل من 200",
+            "سرقة أكثر من 200$",
+            "سرقة بطاقة ائتمان"
         ],
-        "Drug and Alcohol Related":[
-            "Drug Abuse",
-            "Drug Smuggling",
-            "Drug Trafficking",
-            "DUI"
-        ],
-        "?":[
-            "Money Laundering",
-            "Motor Vehicle Theft",
-            "Prostitution",
-            "Rape",
-            "Sabotage",
-            "Sexual Assault",
-            "Shoplifting",
-            "Trespassing",
-            "Vandalism",
-            "Use of Firearm",
-            "Resisting Arrest"
+        "المرور":[
+            "سرعة فوق 15",
+            "سرعة فوق 30",
+            "سرعة فوق 45",
+            "سرعة فوق 65",
+            "القيادة بتهور",
+            "سرقة مركبة",
+            "القيادة مع تجاوز الحد المقرر للكحول",
+            "القيادة بأكثر من الحد المقرر لمادة خاضعة للرقابة",
+            "الهروب من الأستيقاف المروري"
         ]
     }
 }
