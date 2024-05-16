@@ -31,7 +31,7 @@
         },
         "add_nearby":{
             "title":"<FONT FACE = 'A9eelsh'>ﺐﻳﺮﻗ ﺐﻋﻻ ﺔﻓﺎﺿﺇ",
-            "description":"<FONT FACE = 'A9eelsh'> أضف أقرب لاعب إلى بلاغك من نفس القسم"
+            "description":"<FONT FACE = 'A9eelsh'>ﻢﺴﻘﻟﺍ ﺲﻔﻧ ﻦﻣ ﻚﻏﻼﺑ ﻰﻟﺇ ﺐﻋﻻ ﻒﺿﺃ"
         },
         "disable_callouts":{
             "title":"<FONT FACE = 'A9eelsh'>ﺕﺎﻏﻼﺒﻟﺍ",
@@ -71,7 +71,7 @@
 		"engine": "<FONT FACE = 'A9eelsh'>ﻼﻐﺘﺸﻣ ﻙﺮﺤﻤﻟﺍ ﻖﺑﺍ",
 		"cc": {
 			"title": "<FONT FACE = 'A9eelsh'>ﺔﻋﺮﺴﻟﺍ ﺖﺒﺜﻣ ﻞﻴﻌﻔﺗ",
-			"description": "<FONT FACE = 'A9eelsh'>B ﻮﻫ ﺖﺒﺜﻤﻠﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺭﺰﻟﺍ"
+			"description": "<FONT FACE = 'A9eelsh'>ctrl ﻮﻫ ﺖﺒﺜﻤﻠﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺭﺰﻟﺍ"
 		},
 		"vehicleSpawn": "<FONT FACE = 'A9eelsh'>ﺔﺒﻛﺮﻣ ﺝﺍﺮﺧﺍ",
 		"loadout": "<FONT FACE = 'A9eelsh'>ﺩﺎﺘﻌﻟﺍ ﺝﺍﺮﺧﺍ",
